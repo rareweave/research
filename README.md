@@ -2,7 +2,7 @@
 Specifications developed by RareWeave research team and RareWeave community.
 
 List of specifications:
-## RWR-001 Tradeable-Mintable-SmartWeave-NFTs
+## Tradeable-Mintable-SmartWeave-NFTs (Protocol spec, 001)
 This spec unlocks trading of smartweave's atomic assets with AR or any other token. Base for RareWeave.
 
 - Permaweb link: <https://ucfobtm3o5iblpls37lmzbktytxjoo24guajfciszltxbetweaba.arweave.net/oIrgzZt3UBW9ct_WzIVTxO6XO1w1AJKJEsrncJJ2IAI>
